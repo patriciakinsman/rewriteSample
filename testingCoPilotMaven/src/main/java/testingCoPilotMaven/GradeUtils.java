@@ -5,6 +5,8 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
+import java.awt.*;
+
 public class GradeUtils {
 
 	public String getGradeByScore(int score) {
